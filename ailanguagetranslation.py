@@ -25,5 +25,5 @@ outputs = gr.components.Textbox(lines=30, label="AI translation and parsing outp
 
 demo = gr.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="AI Grammar Checker",
              description="AI translator and parser (Slowness due to smaller server)",
-             theme=gr.themes.Base(), css="footer {visibility: hidden}").launch(server_name="0.0.0.0",auth=("username","password"))
+             theme=gr.themes.Base(), css="footer {visibility: hidden}").launch(server_name="0.0.0.0",server_port=7861,auth=("username","password"))
 
