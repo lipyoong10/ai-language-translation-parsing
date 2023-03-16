@@ -13,7 +13,7 @@ To run this application:
 Do note that the default username and password is "username":"password". Do update this! 
 
 <h1>Live Demo Site</h1>
-Current live site: https://aitranslation.lippykong.site/ <br>
+Current live site: https://aitranslator.lippykong.site/ <br>
 <i>Authentication temporarily removed</i>
 
 <h1>Solution Architecture</h1>
