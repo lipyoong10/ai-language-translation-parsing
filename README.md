@@ -25,4 +25,6 @@ The following is the AWS reference architecture for how this website is being ho
 
 
 <h1>Web Interface & Demo</h1>
-The user interface below is what the user will see after successful authentication.<br>
+The user interface below is what the user is expected to see after translation a Japanese sentence.<br>
+
+![AI Translation and Parsing Image](https://github.com/lipyoong10/ai-language-translation-parsing/blob/main/Functional.png) 
